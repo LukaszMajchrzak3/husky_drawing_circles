@@ -1,0 +1,16 @@
+/home/luki_m/clearpath_ws/install/drawing_circles/lib/drawing_circles/dr_circles_node
+/home/luki_m/clearpath_ws/install/drawing_circles/share/ament_index/resource_index/package_run_dependencies/drawing_circles
+/home/luki_m/clearpath_ws/install/drawing_circles/share/ament_index/resource_index/parent_prefix_path/drawing_circles
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/environment/ament_prefix_path.sh
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/environment/ament_prefix_path.dsv
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/environment/path.sh
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/environment/path.dsv
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/local_setup.bash
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/local_setup.sh
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/local_setup.zsh
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/local_setup.dsv
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/package.dsv
+/home/luki_m/clearpath_ws/install/drawing_circles/share/ament_index/resource_index/packages/drawing_circles
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/cmake/drawing_circlesConfig.cmake
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/cmake/drawing_circlesConfig-version.cmake
+/home/luki_m/clearpath_ws/install/drawing_circles/share/drawing_circles/package.xml

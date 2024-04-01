@@ -1,0 +1,4 @@
+source;share/drawing_circles/local_setup.bash
+source;share/drawing_circles/local_setup.dsv
+source;share/drawing_circles/local_setup.sh
+source;share/drawing_circles/local_setup.zsh
